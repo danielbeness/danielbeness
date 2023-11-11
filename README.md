@@ -1,5 +1,5 @@
 ### Olá sou Daniel Benevides 
-- 🎓Sou estudante de Análise e Desenvolvimento de Sistemas
+- 🎓Sou estudante de Engenharia de Software
 
    
 
